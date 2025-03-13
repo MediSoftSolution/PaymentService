@@ -12,7 +12,7 @@ import java.util.Locale;
 
 @Service
 @RequiredArgsConstructor
-public class PaypalService {
+public class PaymentService {
 
     private final APIContext apiContext;
 
